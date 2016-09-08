@@ -1,0 +1,16 @@
+First, create a new repository in this directory 
+git init
+git add .
+git commit -m "adding files"
+
+ They are the normal steps to start a git repository. Remember that git is distributed (decentralized), means you don't need to have a "central server" (or even a network connection), to use git.
+
+Now you want to push the changes to your git repository hosted with github. To you this by telling git to add a remote location, and you do that with this command:
+
+git remote add origin https://github.com/yourusername/your-repo-name.git
+
+git remote set-url origin https://n00bc0der89@github.com/n00bc0der89/SimpleNodeJSExpress
+
+Once you have done that, git now knows about your remote repository. You can then tell it to push (which is "upload") your commited files:
+
+git push -u origin master
