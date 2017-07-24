@@ -1,0 +1,79 @@
+Universities - 
+------------------------
+- Data and Story Library (DASL) - From Carnegie Mellon - Illustrate use of basic statistics method.
+http://lib.stat.cmu.edu/DASL/
+
+- Berkeley Data Lab - Part of University of California. Berkeley Library system
+http://sunsite3.berkeley.edu/wikis/datalab
+
+- UCLA Statistics Dataset - UCLA department of statistics used in their labs and assignments
+www.stat.ucla.edu/data/
+--------------------------
+General Data Application -
+--------------------------
+
+- Freebase - Community effort which provides data on people,places and thing.
+www.freebase.com
+
+- Infochimps - Data marketplace with free and for sale dataset
+http://infochimps.org
+
+- Numbrary - Serves as catalog for government dataset on web
+http://numbrary.com
+
+- AggData - Comprehensive lists of retail locations 
+http://aggdata.com
+
+- Amazon Public Dataset - Large scientific datasets
+http://aws.amazon.com/publicdatasets
+
+- Wikipedia - Lot of smaller datasets in form of HTML tables
+http://wikipedia.org
+
+--------------------------------
+Topical data
+--------------------------------
+
+Geographical data -
+--------------------
+TIGER - most extensive detaied data about roads,railroads,rivers and ZIP codes.
+www.census.gov/geo/www/tiger
+
+OpenStreetMap - www.openstreetmap.org
+
+Geocommons - Data and mapmaker
+www.geocommons.com
+
+Flickr shapefiles - Geographical boundaries as defined by Flickr users
+www.flickr.com/services/api
+
+------------------
+Sports -
+------------------
+Basketball ref - www.basketball-reference.com
+Baseball databank - http://baseball-databank.org/
+databaseFootball - www.databasefootball.com/
+
+------------------
+World -
+------------------
+Global Health facts - www.globalhealthfacts.org/ - Health related data about countries in the world.
+UNData - http://data.un.org/ -    Aggregator of world data
+World Health organization - www.who.int/research/en/ -  Variety of Health related dataset such as mortality and life expectancy
+OECD statistics - http://stats.oecd.org/  -  Major source for economic indicators
+World Bank - http://data.worldbank.org/ 
+
+------------------------
+Government and Politics -
+----------------
+Census Bureau - www.census.gov/ - 
+Data.gov - http://data.gov/
+Data.gov.uk - http://data.gov.uk/
+DataSF - http://datasf.org/ -   Data specific to SanFransico
+NYC Datamine - For Newyork - http://nyc.gov/data/
+Follow the money - www.followthemoney.org/ - Big set of tools to investigate money in state politics
+OpenSecrets - www.opensecrets.org - Provides details on government spending and lobbying.
+
+
+
+
